@@ -121,6 +121,7 @@ hr {
 .ow {
     background-color: var(--off-white);
     border-radius: 1rem;
+    
 }
 
 /* footer */
@@ -145,5 +146,4 @@ hr {
 .footer ul {
     padding-inline-start: 0px ;
 }
-
 
