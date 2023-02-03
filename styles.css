@@ -23,7 +23,8 @@ hr {
 
 .container-center {
     max-width: 600px;
-    margin: auto
+    margin: auto;
+    text-align: center;
 }
 
 /* links */
@@ -147,7 +148,7 @@ hr {
     padding-inline-start: 0px ;
 }
 
-img {
+.img {
     border-radius: 1rem;
     width: 230px;
     height: 250px;
@@ -155,3 +156,4 @@ img {
     display: block;
     
 }
+
